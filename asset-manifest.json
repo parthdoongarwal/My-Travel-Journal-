@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-Travel-Journal-/static/css/main.3b1cffc0.chunk.css",
+    "main.js": "/My-Travel-Journal-/static/js/main.ee589432.chunk.js",
+    "main.js.map": "/My-Travel-Journal-/static/js/main.ee589432.chunk.js.map",
+    "runtime-main.js": "/My-Travel-Journal-/static/js/runtime-main.acbf7991.js",
+    "runtime-main.js.map": "/My-Travel-Journal-/static/js/runtime-main.acbf7991.js.map",
+    "static/js/2.2572e23b.chunk.js": "/My-Travel-Journal-/static/js/2.2572e23b.chunk.js",
+    "static/js/2.2572e23b.chunk.js.map": "/My-Travel-Journal-/static/js/2.2572e23b.chunk.js.map",
+    "index.html": "/My-Travel-Journal-/index.html",
+    "static/css/main.3b1cffc0.chunk.css.map": "/My-Travel-Journal-/static/css/main.3b1cffc0.chunk.css.map",
+    "static/js/2.2572e23b.chunk.js.LICENSE.txt": "/My-Travel-Journal-/static/js/2.2572e23b.chunk.js.LICENSE.txt",
+    "static/media/pount.3127c2f2.png": "/My-Travel-Journal-/static/media/pount.3127c2f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acbf7991.js",
+    "static/js/2.2572e23b.chunk.js",
+    "static/css/main.3b1cffc0.chunk.css",
+    "static/js/main.ee589432.chunk.js"
+  ]
+}
